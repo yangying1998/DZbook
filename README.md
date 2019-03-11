@@ -1,2 +1,3 @@
-# DZbook
-电子书
+# info-theory-lab-manual
+
+信息科学基础实验手册
